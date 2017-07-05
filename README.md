@@ -31,4 +31,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## Todo
 - [ ] Month names
+- [ ] Slot and sub component
 - [ ] Tooltip
